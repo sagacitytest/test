@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 hello this is my first code file
 
 
 this is a change again
+=======
+hi hello my first text
+neerajsagacity added some text
+>>>>>>> d48ca61dc4eb78ee072af7489f0ade350577873b
